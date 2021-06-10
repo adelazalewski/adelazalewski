@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m a Full Stack Web Developer
 - 👯 I am passionate about code and development, but also cooking and traveling.
 - 📫 How to reach me: paliuadela@yahoo.com
-- 💬 I posted updates on my [LinkedIn](https://www.linkedin.com/in/adela-zalewski/)
+- 💬 I post updates on my [LinkedIn](https://www.linkedin.com/in/adela-zalewski/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born and raised in Bucharest, Romania.
 
