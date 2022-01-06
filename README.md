@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 💬 I post updates on my [LinkedIn](https://www.linkedin.com/in/adela-zalewski/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was born and raised in Bucharest, Romania.
-
+- Curently woprking as a Salesforce Developer at Nimbus Cloud Solutions, Plymouth, MI 
